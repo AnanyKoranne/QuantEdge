@@ -197,15 +197,3 @@ quantedge/
 | `turnover.csv` | Monthly turnover at each rebalance date |
 
 ---
-
-## 📚 References
-
-- Jegadeesh, N. & Titman, S. (1993). *Returns to Buying Winners and Selling Losers.* Journal of Finance.
-- Asness, C., Moskowitz, T. & Pedersen, L. (2013). *Value and Momentum Everywhere.* Journal of Finance.
-- Grinold, R. & Kahn, R. (1999). *Active Portfolio Management.* McGraw-Hill.
-
----
-
-## 🙋 About
-
-Built as a personal deep-dive into systematic, factor-based investing — going beyond simple price prediction toward how institutional quant desks construct and evaluate strategies. The goal was to understand not just *whether* a factor works, but *why* it works and how to measure that rigorously through IC, ICIR, factor decay, and parameter robustness testing.
