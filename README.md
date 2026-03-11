@@ -103,7 +103,7 @@ An 81-combination grid search across key parameters reveals how sensitive the st
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/yourusername/quantedge.git
+git clone https://github.com/AnanyKoranne/QuantEdge.git
 cd quantedge
 
 # Create and activate virtual environment
